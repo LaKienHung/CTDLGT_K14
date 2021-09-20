@@ -1,8 +1,8 @@
-package vn.edu.giadinh.tuan01;
+package vn.edu.giadinh.tuan03;
 
 import java.util.Scanner;
 
-public class Lab2Bai4 {
+public class MinhHoaLab2Bai4 {
     
     public static void main(String[] args){
         System.out.println("==============Menu============");
@@ -38,3 +38,4 @@ public class Lab2Bai4 {
     }
 
 }
+
